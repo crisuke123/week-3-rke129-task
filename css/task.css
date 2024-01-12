@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
+body{
+    background-color: wheat;
+}
+.ingredients{
+    border: 1px solid black;
+    width: 50%;
+    margin:0 auto;
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+    color: rgb(145, 77, 193);
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol{
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 75% ;
+    color: rgb(145, 134, 31);
+}
+.Pealkiri{
+    text-align: center;
+    color: brown;
+    font-family: 'Lemon', serif;
+}
+.pilt{
+    width: 350px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
